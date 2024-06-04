@@ -1,2 +1,2 @@
-aiohttp==3.8.2
-pyngrok==5.1.0
+aiohttp==3.8.3
+ngrok-api==0.8.0
